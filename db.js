@@ -25,3 +25,4 @@ sequelize.authenticate()
 sequelize.sync()
 
 module.exports = sequelize
+//je fais du mma
